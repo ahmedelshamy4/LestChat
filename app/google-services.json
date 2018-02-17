@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "979022019758",
+    "firebase_url": "https://lestchat-2506f.firebaseio.com",
+    "project_id": "lestchat-2506f",
+    "storage_bucket": "lestchat-2506f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979022019758:android:98bcb2f1c55bbfe9",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.lestchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979022019758-3fsv5rqj886c8hk614r2ajdsvhqth7ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.lestchat",
+            "certificate_hash": "b2527348d03b97cf16f3f78fe6698da2b74e4ac5"
+          }
+        },
+        {
+          "client_id": "979022019758-tdgo3mtcj6p4jjl40ap0ngd2r1aavf16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvq7teU5sys9b0QRXuX2JQAHbp7M9SveM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979022019758-tdgo3mtcj6p4jjl40ap0ngd2r1aavf16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
